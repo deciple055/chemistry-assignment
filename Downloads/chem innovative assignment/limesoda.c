@@ -63,7 +63,7 @@ int main() {
 
     totalHard = tempHard + permHard;
 
-    printf("\n----- WATER QUALITY ANALYSIS -----\n");
+    printf("\n----- WATER QUALITY ANALYSIS(Krishna Vishwakarma) -----\n");
     printf("Temporary Hardness : %.2f ppm\n", tempHard);
     printf("Permanent Hardness : %.2f ppm\n", permHard);
     printf("Total Hardness     : %.2f ppm\n", totalHard);
