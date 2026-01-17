@@ -1,6 +1,6 @@
 //
 //  chem.c
-//  Created by krishna makodiya, krishna vishwakarma , krish pahuja , krishna kanojiya, krishna mishra  on 17/01/26.
+//  Created by krishna patel, krishna makodiya, krishna vishwakarma , krish pahuja , krishna kanojiya, krishna mishra  on 17/01/26.
 
 
 
